@@ -1,0 +1,4 @@
+﻿Paper 4
+
+The paper presents a method named the PSSM (), which helps with the prediction of a protein structure only by its given amino-acid sequence.
+
